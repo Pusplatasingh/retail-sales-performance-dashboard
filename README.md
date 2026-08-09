@@ -27,13 +27,13 @@ The dashboard is built on a custom data model with a dedicated Date table for ti
 ## Screenshots
 
 ### Retail Sales Performance Dashboard
-![Retail Sales Performance Dashboard](Screenshots/Retail Sales Performance Dashboard.png)
+![Retail Sales Performance Dashboard](Screenshots/Retail%20Sales%20Performance%20Dashboard.png)
 
 ### Regional Analysis
-![Regional Analysis](Screenshots/Regional Analysis.png)
+![Regional Analysis](Screenshots/Regional%20Analysis.png)
 
 ### Product & Discount Insight
-![Product & Discount Insight](Screenshots/Product & Discount Insight.png)
+![Product & Discount Insight](Screenshots/Product%20%26%20Discount%20Insight.png)
 
 ## Tech Stack
 
