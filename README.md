@@ -27,13 +27,13 @@ The dashboard is built on a custom data model with a dedicated Date table for ti
 ## Screenshots
 
 ### Executive Overview
-![Executive Overview](screenshots/overview_page.png)
+![Executive Overview](Screenshots/overview_page.png)
 
 ### Regional Analysis
-![Regional Analysis](screenshots/regional_page.png)
+![Regional Analysis](Screenshots/regional_page.png)
 
 ### Product & Discount Insight
-![Product Insight](screenshots/product_page.png)
+![Product Insight](Screenshots/product_page.png)
 
 ## Tech Stack
 
