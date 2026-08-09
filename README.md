@@ -4,15 +4,15 @@ An end-to-end Power BI dashboard analyzing retail sales, regional profitability,
 
 ## Problem
 
-A retail business needs visibility into where it makes money and where it doesn't — across time, geography, and product lines — in order to make informed decisions about pricing, discounting, and regional strategy. Raw transactional data alone doesn't answer this; it needs to be modeled and visualized to surface actionable patterns.
+A retail business needs visibility into where it makes money and where it doesn't across time, geography, and product lines — in order to make informed decisions about pricing, discounting, and regional strategy. Raw transactional data alone doesn't answer this; it needs to be modeled and visualized to surface actionable patterns.
 
 ## Solution
 
 I built a 3-page interactive Power BI dashboard covering:
 
-- **Executive Overview** — high-level KPIs, sales trend over time, and category revenue split
-- **Regional Analysis** — geographic breakdown of sales and profitability by region and state
-- **Product & Discount Insight** — identifying which sub-categories and products are profitable vs. loss-making, and how discounting affects margin
+- **Executive Overview** : high-level KPIs, sales trend over time, and category revenue split
+- **Regional Analysis** : geographic breakdown of sales and profitability by region and state
+- **Product & Discount Insight** : identifying which sub-categories and products are profitable vs. loss-making, and how discounting affects margin
 
 The dashboard is built on a custom data model with a dedicated Date table for time intelligence, calculated columns for discount bucketing, and DAX measures for all core business metrics. Full measure documentation is in `docs/DAX_measures.md`.
 
@@ -37,9 +37,9 @@ The dashboard is built on a custom data model with a dedicated Date table for ti
 
 ## Tech Stack
 
-- **Power BI Desktop** (Free) — data modeling, DAX, visualization
-- **Power Query** — data cleaning and transformation
-- **DAX** — calculated columns, measures, time intelligence
+- **Power BI Desktop** (Free) : data modeling, DAX, visualization
+- **Power Query** : data cleaning and transformation
+- **DAX** : calculated columns, measures, time intelligence
 
 ## How to Use
 
