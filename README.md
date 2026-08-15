@@ -2,6 +2,16 @@
 
 An end-to-end Power BI dashboard analyzing retail sales, regional profitability, and the impact of discounting on profit margins using the Sample Superstore dataset (2014–2017, ~9,800 orders).
 
+## Tech Skills
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
+![DAX](https://img.shields.io/badge/DAX-742774?style=for-the-badge)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-FF6F61?style=for-the-badge)
+![Time Intelligence](https://img.shields.io/badge/Time%20Intelligence-2E8B57?style=for-the-badge)
+![Profitability Analysis](https://img.shields.io/badge/Profitability%20Analysis-8A2BE2?style=for-the-badge)
+
+
 ## Problem
 
 A retail business needs visibility into where it makes money and where it doesn't across time, geography, and product lines — in order to make informed decisions about pricing, discounting, and regional strategy. Raw transactional data alone doesn't answer this; it needs to be modeled and visualized to surface actionable patterns.
